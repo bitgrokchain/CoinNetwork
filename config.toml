@@ -20,6 +20,6 @@ GraphQLVirtualHosts = ["localhost"]
 MaxPeers = 200
 NoDiscovery = false
 BootstrapNodes = ["enode://87a63840bc601071015ca87b2d24f11e4d6de0276b2c4e78bcbaa5c9a39ee78d9c0efcc9f95ddcc52d4d4a2a25a677694ae0a8fc15d62c2beaf874b348632e18@202.143.109.32:40606"]
-StaticNodes = []
+StaticNodes = ["enr:-J24QCHh6X6rObmx_cvWVvKsIeTu-Fo0vN1tRp5ilhJGt-hraYJiX-_jrnGQ074tm703eQMkztdNIx69KkpyHQf4YAOGAY-omvS7g2V0aMfGhD76X76AgmlkgnY0gmlwhH8AAAGJc2VjcDI1NmsxoQJXoLlKty_KbmpitYW40Nz7XzEQ6A9LdgmLh_1_zMzOyYN0Y3CCnp2DdWRwgp6d"]
 TrustedNodes = []
 ListenAddr = ":40605"
